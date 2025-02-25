@@ -86,4 +86,4 @@ grr_client --list_services
 Expected Output: Identification of persistence mechanisms and analysis of suspicious processes and services.
 
 Conclusion
-By completing these exercises, you have gained advanced skills in using GRR Rapid Response for Linux endpoint forensics. You have learned to set up and configure the GRR server, deploy agents on endpoints, collect live forensic data, perform memory analysis, and detect persistence mechanisms. These skills are essential for conducting comprehensive remote forensic investigations and responding to security incidents effectively.
+By completing these exercises, you have gained advanced skills in using GRR Rapid Response for Windows & Linux endpoint forensics. You have learned to set up and configure the GRR server, deploy agents on endpoints, collect live forensic data, perform memory analysis, and detect persistence mechanisms. These skills are essential for conducting comprehensive remote forensic investigations and responding to security incidents effectively.
